@@ -1,0 +1,4 @@
+{
+  "password": "your postgres superuser password",
+  "token": "token for fastapi authorisation"
+}
